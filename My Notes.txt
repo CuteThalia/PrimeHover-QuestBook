@@ -1,0 +1,11 @@
+# QuestBook
+Quest Book for RPG Maker MV
+
+# Link
+http://forums.rpgmakerweb.com/index.php?/topic/50245-ph-quest-book/?view=findpost&p=497655
+
+# Notes
+None
+
+# License
+> Free for commercial and non-commercial use as long as you give the credits of this plugin.
